@@ -1,4 +1,8 @@
 {
   "title_result": "Kết quả",
-  "action": "Sử dụng $language_name và giải bài tập sau đồng thời thêm lời giải thích"
+  "title_error": "Lỗi",
+  "message_error": "Đã xảy ra lỗi, vui lòng thử lại.",
+  "message_empty_result": "Không có kết quả",
+  "action": "Sử dụng $language_name và giải bài tập sau, đồng thời thêm lời giải thích",
+  "action_retry": "Thử lại"
 }

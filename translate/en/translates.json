@@ -1,4 +1,8 @@
 {
   "title_result": "Result",
-  "action": "Use $language_name and solve the following exercise while adding explanation"
+  "title_error": "Error",
+  "message_error": "An error occurred, please try again.",
+  "message_empty_result": "No results",
+  "action": "Use $language_name and solve the following exercise while adding explanation",
+  "action_retry": "Retry"
 }
